@@ -7,7 +7,7 @@ O guia da [RocketSeat](https://react-native.rocketseat.dev/android/windows) irá
 Na sequência, você precisa instalar as dependências do projeto com:
 
 ```
-yarn dev
+yarn install
 
 ```
 e para rodar a aplicação você precisa, obrigatoriamente, depois de tudo configurado e funcionando (inclusive emulador ligado), usar na primeira vez e sempre que houver grandes alterações: 
